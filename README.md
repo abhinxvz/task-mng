@@ -20,7 +20,7 @@ TaskMaster is a modern, full-stack application designed to help you organize, tr
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/abhinxvz/task-mng)>
    cd task-management
    ```
 2. **Install all dependencies:**
