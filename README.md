@@ -60,9 +60,6 @@ TaskMaster is a modern, full-stack application designed to help you organize, tr
 - Concurrently (runs frontend and backend together)
 
 ## Additional Information
-
-- All dependencies are kept up to date for security and performance.
-- The project is free of unused or deprecated packages.
 - Some warnings may appear due to third-party dependencies, but these do not affect the core functionality.
 
 ---
